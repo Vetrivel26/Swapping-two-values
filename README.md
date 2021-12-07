@@ -18,6 +18,18 @@ Print both the values it would be interchanged
 ### Step 6: 
 End the program
 ## PROGRAM:
+~~~
+#Program to swap two values.
+#Developed by:vetrivel
+#RegisterNumber:21000733
+n1 = int(input())
+n2 = int(input())
+n1,n2=n2,n1
+print("Swapped values are: {} {}".format (n1,n2))
+~~~
+## output:
+![git log](/vetri.png)
+
 
 
 
